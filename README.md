@@ -22,7 +22,7 @@ drwxr-xr-x
 ## File Type
 
 - `d` → Directory  
-- `.` → Regular file  
+- `.` → Hidden File  
 
 ---
 
@@ -31,7 +31,7 @@ drwxr-xr-x
 - `r` → Read  
 - `w` → Write  
 - `x` → Execute  
-- `.` → No permission  
+- `-` → No permission  
 
 Example:
 
