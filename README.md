@@ -1,4 +1,5 @@
 # Linux File Permissions (Based on `ls -al` Output)
+![Linux](https://github.com/user-attachments/assets/7c3843c0-984e-4e52-83b8-014c98f7077a)
 
 Example:
 
